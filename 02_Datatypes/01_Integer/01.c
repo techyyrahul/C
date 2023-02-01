@@ -1,3 +1,5 @@
+// Getting started with integer datatype
+
 #include<stdio.h>
 
 void main()
